@@ -1,0 +1,7 @@
+2025-01-03 10:51:22,410 - INFO - Starting Docker container inspection automation...
+2025-01-03 10:51:22,624 - INFO - Processing container: 396e39b1bcf7013a3bae9098a5246db5526b871c51a51270ea5f527532b4ec5e
+2025-01-03 10:51:22,635 - WARNING - 'ContainerConfig' key is missing for container 396e39b1bcf7013a3bae9098a5246db5526b871c51a51270ea5f527532b4ec5e.
+2025-01-03 10:51:22,635 - INFO - Available keys: ['Id', 'Created', 'Path', 'Args', 'State', 'Image', 'ResolvConfPath', 'HostnamePath', 'HostsPath', 'LogPath', 'Name', 'RestartCount', 'Driver', 'Platform', 'MountLabel', 'ProcessLabel', 'AppArmorProfile', 'ExecIDs', 'HostConfig', 'GraphDriver', 'Mounts', 'Config', 'NetworkSettings']
+2025-01-03 10:51:22,635 - INFO - Processing container: c2733d8ac77ae08dd0f414550882f67aa63efdaba010540de53bfda42138df20
+2025-01-03 10:51:22,647 - WARNING - 'ContainerConfig' key is missing for container c2733d8ac77ae08dd0f414550882f67aa63efdaba010540de53bfda42138df20.
+2025-01-03 10:51:22,647 - INFO - Available keys: ['Id', 'Created', 'Path', 'Args', 'State', 'Image', 'ResolvConfPath', 'HostnamePath', 'HostsPath', 'LogPath', 'Name', 'RestartCount', 'Driver', 'Platform', 'MountLabel', 'ProcessLabel', 'AppArmorProfile', 'ExecIDs', 'HostConfig', 'GraphDriver', 'Mounts', 'Config', 'NetworkSettings']
